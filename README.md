@@ -13,6 +13,7 @@
 ### Founder, Anshin Yomichi
  - Built Anshin Yomichi - the application that can close the gender gap in Japan in a month.
  - Conducted interviews with 75 women in a month.
+ - [promotion Video](https://www.youtube.com/watch?v=qfS-SFLeszY)
 
 ### Science Lecturer, junior high school
  - Make a workshop about programming by Scratch for 45 students.
