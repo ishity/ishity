@@ -32,6 +32,8 @@
 # Programming Skills
 ### C
  - 2 years
+ - Functional Programming
+ - System programming
 ### OCaml
  - 2 years
  - Station Search Program by Dijkstra Algorism
@@ -40,6 +42,7 @@
  - Made 5 wes sites
  ### JavaScript
  - 1 years
+ - Taught JS for college students
 ### Java
  - 1 years
  - Made drawing soft
