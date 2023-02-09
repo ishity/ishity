@@ -1,9 +1,54 @@
-- 👋 Hi, I’m @ishity
-- 👀 I’m interested in backend develop.
-- 🌱 I’m currently learning about Java and how to make the application by the both side of frontend and backend.
-- 📫 How to reach me -> please serch @ishity__ on Instagram and Twitter
+# Contact
+ - email : yuuri.isty@gmail.com
+ - LinkedIn : https://www.linkedin.com/in/yuriishitoya/
+ - Instagram : @ishity__
+ - Twitter : @ishity__
 
-<!---
-ishity/ishity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Professional Experience
+### Website development for school VR events 
+ - Created a website from scratch by HTML, CSS, JavaScript to feel familiar with our school and VR.
+### Website development and image editing for a laboratory in gendered innovation 
+ - Translated the original website by Stanford University to Japanese and publishedby HTML, CSS.
+
+### Founder, Anshin Yomichi
+ - Built Anshin Yomichi - the application that can close the gender gap in Japan in a month.
+ - Conducted interviews with 75 women in a month.
+
+### Science Lecturer, junior high school
+ - Make a workshop about programming by Scratch for 45 students.
+
+### Intern, Waffle.org
+ - Instructor & TA
+   - Taught mobile app development for over 200 female students online as an instructor.
+   - Taught one day online coding camp about creating websites by HTML & CSS more than 100 students as an instructor.
+   - Taught JavaScript as TA for college students. 
+ - Curriculum Development
+   - Developed a six-days online coding bootcamp curriculum based on the conceptual thinking of curriculum.
+   - Created full materials of the  bootcamp, including 30 slide decks, 23 videos (edited by myself), and Google classroom posts.
+   - Managed 33 industrial professionals as TA volunteers to efficiently run a cohort of 200 students.
+   - Achieved 26.9 NPS on post student survey.
+   - Modified HTML & CSS class material to make it more user interactive.
+
+# Programming Skills
+### C
+ - 2 years
+### OCaml
+ - 2 years
+ - Station Search Program by Dijkstra Algorism
+### HTML&CSS
+ - 2 years
+ - Made 5 wes sites
+ ### JavaScript
+ - 1 years
+### Java
+ - 1 years
+ - Made drawing soft
+### Vue.js
+ - 1 years
+ - Made web application
+### React
+ - 1 years
+ - Making web application similar to Facebook
+### Node.js
+ - 1 years
+ - Making web application similar to Facebook
