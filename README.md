@@ -4,6 +4,8 @@
  - Instagram : @ishity__
  - Twitter : @ishity__
 
+![](https://komarev.com/ghpvc/?username=ishity)
+
 # Professional Experience
 ### Website development for school VR events 
  - Created a website from scratch by HTML, CSS, JavaScript to feel familiar with our school and VR.
@@ -29,30 +31,3 @@
    - Managed 33 industrial professionals as TA volunteers to efficiently run a cohort of 200 students.
    - Achieved 26.9 NPS on post student survey.
    - Modified HTML & CSS class material to make it more user interactive.
-
-# Programming Skills
-### C
- - 2 years
- - Functional Programming
- - System programming
-### OCaml
- - 2 years
- - Station Search Program by Dijkstra Algorism
-### HTML&CSS
- - 2 years
- - Made 5 wes sites
- ### JavaScript
- - 1 years
- - Taught JS for college students
-### Java
- - 1 years
- - Made drawing soft
-### Vue.js
- - 1 years
- - Made web application
-### React
- - 1 years
- - Making web application similar to Facebook
-### Node.js
- - 1 years
- - Making web application similar to Facebook
