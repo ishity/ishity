@@ -6,7 +6,7 @@
 <p align="left">
 <a href="https://twitter.com/ishity__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ishity__" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yuriishitoya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuriishitoya" height="30" width="40" /></a>
-<a href="https://instagram.com/ishity__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@ishity__" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/ishity__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@ishity__" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -16,8 +16,6 @@
 
 # Contact
  - email : yuuri.isty@gmail.com
-
-![](https://komarev.com/ghpvc/?username=ishity)
 
 # Professional Experience
 ### Website development for school VR events 
